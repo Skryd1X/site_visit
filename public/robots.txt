@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://skryd1x.github.io/site_visit/sitemap.xml
