@@ -72,6 +72,7 @@ export default function Contacts() {
               title="Карта: ООО КРААС ИНЖИНИРИНГ, г. Москва, ул. Шверника, д. 6, к. 1"
               loading="lazy"
               className="absolute inset-0 w-full h-full border-0"
+              referrerPolicy="strict-origin-when-cross-origin"
               allowFullScreen
             />
             <noscript>

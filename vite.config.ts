@@ -2,8 +2,8 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
 export default defineConfig({
+  base: '/site_visit/',
   plugins: [react()],
-  base: process.env.GITHUB_PAGES === 'true' ? '/site_visit/' : '/',
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
