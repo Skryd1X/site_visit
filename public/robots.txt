@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://skryd1x.github.io/site_visit/sitemap.xml
+Sitemap: https://site-visit-skryd1x.netlify.app/sitemap.xml

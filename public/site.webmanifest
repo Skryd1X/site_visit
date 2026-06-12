@@ -3,14 +3,14 @@
   "short_name": "КРААС",
   "description": "Электромонтажные, строительные и инженерные работы в Москве и РФ.",
   "lang": "ru-RU",
-  "start_url": "/site_visit/",
-  "scope": "/site_visit/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#c71920",
   "icons": [
     {
-      "src": "/site_visit/favicon.svg",
+      "src": "/favicon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
